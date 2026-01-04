@@ -1,5 +1,3 @@
-# SPARTA-Sistem-Pelaporan-Aksi-dan-Respons-Terpadu-Aman
-SPARTA (Sistem Pelaporan Aksi dan Respons Terpadu Aman) is a responsive web-based reporting system designed to help citizens report cyber and conventional crimes efficiently, featuring incident reporting, emergency contacts, nearby police stations, and crime news.
 # 🔐 SPARTA – Integrated Crime Reporting Web System
 
 SPARTA (Sistem Pelaporan Aksi dan Respons Terpadu Aman) is a responsive web-based application designed to help citizens report cyber and conventional crimes efficiently. The platform aims to strengthen collaboration between the community and authorities through fast reporting, transparent information, and accessible emergency services.
