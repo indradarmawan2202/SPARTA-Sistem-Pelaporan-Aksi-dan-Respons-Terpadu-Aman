@@ -1,29 +1,29 @@
-# 🔐 SPARTA – Integrated Crime Reporting Web System
+# 🔐 SPARTA – Integrated Crime Reporting Web System (Prototype)
 
-SPARTA (Sistem Pelaporan Aksi dan Respons Terpadu Aman) is a responsive web-based application designed to help citizens report cyber and conventional crimes efficiently. The platform aims to strengthen collaboration between the community and authorities through fast reporting, transparent information, and accessible emergency services.
+SPARTA (Sistem Pelaporan Aksi dan Respons Terpadu Aman) is a **prototype** of a responsive web-based application developed as an **academic project**. This system demonstrates how digital platforms can support public safety by enabling citizens to report cyber and conventional crimes efficiently.
 
-This project was developed as an academic and portfolio project focusing on web development, system design, and public service digital solutions.
+The project focuses on web development fundamentals, system design, and user-centered public service solutions.
 
 ---
 
 ## 🚀 Features
 
 - 📝 **Incident Reporting System**  
-  Report cyber or conventional crimes with detailed descriptions and supporting evidence (images/videos).
+  Submit reports related to cyber or conventional crimes with detailed descriptions and supporting evidence (images/videos).
 
-- 👤 **User Authentication**  
-  Secure user registration and login system.
+- 👤 **User Registration & Authentication**  
+  Basic user registration and login functionality.
 
 - 🚨 **Emergency Contacts**  
-  Quick access to important emergency numbers.
+  Quick access to important emergency phone numbers.
 
 - 📰 **Crime News & Awareness**  
-  Displays recent crime-related news to increase public awareness.
+  Displays crime-related news to increase public awareness.
 
-- 📍 **Nearby Police Station Locator**  
-  Helps users find the nearest police station based on their location.
+- 📍 **Nearby Police Station Information**  
+  Helps users identify nearby police stations and related contact details.
 
-- 📱 **Responsive Design**  
+- 📱 **Responsive Web Design**  
   Optimized for desktop, tablet, and mobile devices.
 
 ---
@@ -31,7 +31,7 @@ This project was developed as an academic and portfolio project focusing on web 
 ## 🛠️ Tech Stack
 
 **Frontend**
-- HTML5
+- HTML5  
 - CSS3 (Responsive Design)
 
 **Backend**
@@ -42,36 +42,36 @@ This project was developed as an academic and portfolio project focusing on web 
 
 ---
 
-## 🧩 Database Design
+## 🧩 Database Overview
 
 - **data_pengguna**  
-  Stores user information (ID, name, email, phone number, password).
+  Stores user information such as name, email, phone number, and password.
 
 - **data_laporan**  
-  Stores incident reports linked to users (one-to-many relationship).
+  Stores incident reports submitted by users, linked using a one-to-many relationship.
 
 ---
 
 ## 🎯 Project Objectives
 
-- Improve accessibility of crime reporting for the public  
-- Increase awareness of cyber and conventional crimes  
-- Support faster response from authorities  
-- Provide a simple, transparent, and user-friendly reporting platform  
+- Demonstrate a web-based crime reporting concept  
+- Apply database design and backend integration  
+- Improve understanding of responsive UI/UX design  
+- Build an academic portfolio project
 
 ---
 
 ## 🖥️ UI/UX Design Principles
 
-- Clean and minimal layout  
-- High readability with clear typography  
-- Color philosophy focused on **trust, security, and transparency**  
-- Inspired by Indonesian public service platforms (112 Service & Cyber Patrol)
+- Clean and simple layout  
+- High readability and accessibility  
+- Color philosophy emphasizing **trust, security, and transparency**  
+- Inspired by Indonesian public service platforms (Emergency 112 & Cyber Patrol)
 
 ---
 
 ## ⚙️ Installation & Setup
 
-1. Clone this repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/sparta-web.git
